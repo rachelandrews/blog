@@ -24,5 +24,4 @@ I am excited for a class that is applicable to the industry. Many of our classes
 
 ## Tip-of-the-week
 
-Everything Professor Downing puts up is important. Take the time to write down any detail he says because it will be fair game on the quizzes, which start right at 11.
-
+From reading previous articles, brushing up on C would be beneficial.
