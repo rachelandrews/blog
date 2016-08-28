@@ -16,11 +16,11 @@
 title: "CS373 Fall 2016: Rachel Andrews"
 email: rachelandrews@utexas.edu
 google_analytics: UA-83267857-1
+avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAQjAAAAJDJhYmNiMWFjLTY3YTItNDk2MS04Y2M0LTI4N2M0OGRhZDljMg.jpg
 description: A blog to describe software engineering by Professor Downing
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://rachelandrews.github.io" # the base hostname & protocol for your site
-gems:
- - jekyll-avatar
+
 
 
 
