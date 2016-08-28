@@ -27,4 +27,3 @@ gems:
 # Build settings
 markdown: kramdown
 theme: minima
-avatar: {% avatar rachelandrews size = 300%}
