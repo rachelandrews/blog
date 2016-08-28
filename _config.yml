@@ -20,7 +20,7 @@ description: A blog to describe software engineering by Professor Downing
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://rachelandrews.github.io" # the base hostname & protocol for your site
 gems:
-	- jekyll-avatar
+ - jekyll-avatar
 
 
 
