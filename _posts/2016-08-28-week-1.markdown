@@ -4,25 +4,25 @@ title:  "Week 1"
 date:   2016-08-28 16:33:22 -0500
 categories: jekyll update
 ---
-##What did you do this past week?
+## What did you do this past week?
 
 This past week I downloaded and made myself familiar with all the necessary tools for the class. I also read the readings needed for the week after. 
 
-##What's in your way?
+## What's in your way?
 
 I feel my confidence is in the way. I shy away from coding, since I feel I am not very good. I hope to break out of that with this class and show to myself I have what it takes to be in this field.
 
-##What will you do next week?
+## What will you do next week?
 
 Next week I will continue with more readings. Hopefully the first project will come out and I will be able to familiarize myself with the material.
 
-##Experience
+## Experience
 
 The class has been exciting so far. Professor Downing creates an environment of interation that I have not seen in many other computer science classes. By chance I was called on both days of class. Not only was I called, but the first person each time. For one question, I did not know the answer. However, Professor Downing still made me attempt the question until I got the right answer. I appreciated this because it shows how he does not let us off the hook for not knowing the answer but encourages us to continue until we get it right. I also enjoyed going line by line of the code to understand what it does. Often times I skim over the code which leads me to not fully understand its entirety. Now I am beginning a new habit of taking the time to comprehend what every line does.
 
 I am excited for a class that is applicable to the industry. Many of our classes so far have been theory based or simple coding classes. However, this course captures how enterprise development is done. I find this a valuable asset, and I am excited to see what comes out of this experience.
 
-##Tip-of-the-week
+## Tip-of-the-week
 
 Everything Professor Downing puts up is important. Take the time to write down any detail he says because it will be fair game on the quizzes, which start right at 11.
 
