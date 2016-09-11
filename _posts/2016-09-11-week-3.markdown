@@ -6,20 +6,19 @@ categories: jekyll update
 ---
 ## What did you do this past week?
 
-I finished the Collatz project. I became familiar with Docker as well as Travis CI. I also became comfortable with Git. I spent a majority of my final hours cleaning up pylint.
+I finished the Collatz project. I became familiar with Docker as well as Travis CI. I also became comfortable with Git. I spent a majority of my final hours cleaning up pylint issues.
 
 ## What's in your way?
 
-I need to spend more time with the readings, so I can do better on the quizzes. I also 
-need to comprehend the material in class better.
+I need to spend more time with the readings, so I can do better on the quizzes. I also need to comprehend the material in class better.
 
 ## What will you do next week?
 
-I will begin the second project. I also need to find a partner to work on the project with. I am going to start reading the assign readings after I finish writing this post.
+I will begin the second project. I also need to find a partner to work on the project with. I am going to start reading the assigned readings after I finish writing this post.
 
 ## Experience
 
-This week was more intense than usual because of the project due date. Office hours were immensely helpful, especially the TA/Proctor Lab hours that were held for two hours. The TAs know what they are doing. I feel more confident in myself for finishing the assignment in an ample way. I wish I wrote my code neatly the first time so I wouldn't have so many pylint errors. I am slightly anxious to receive my grade back. I feel I should have spent more time making sure I followed all the steps correctly.
+This week was more intense than usual because of the project due date this week. Office hours were immensely helpful, especially the TA/Proctor Lab hours that were held for two hours. The TAs know what they are doing. I feel more confident in myself for finishing the assignment in an ample way. I wish I wrote my code neatly the first time so I wouldn't have had so many pylint errors. I am slightly anxious to receive my grade back. I feel I should have spent more time making sure I followed all the steps correctly.
 
 We spent a lot of time in class going through the background implentation of Python. I did not to expect to learn
 this much, since it is almost the same detail as learning Java our first year. Because the material is so detailed, I need to spend more time comprehending the material day by day. This will help me to really remember the material and not have to cram everything by the test. Since the material is so detailed, it's easy for things to get mixed up.
