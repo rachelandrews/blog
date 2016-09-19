@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Week 4"
+date:   2016-09-18 10:33:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+I worked on the Netflix project with my partner. We actually finished the project well ahead of time, so that's exciting! We have a few more improvements to do, but the majority of the work is finished. I have also been doing better on the quizzes, which I am also excited about.  
+
+## What's in your way?
+
+Currently, the readings. Unfortunately, I will not be very focused on this class this week due to interviews. 
+
+## What will you do next week?
+
+Our test is coming up in about two weeks. I want to gradually study so I won't be overwhelmed by the detailed information when the exam nears. 
+
+## Experience
+
+Professor Downing took an entire class to allow a prior student to speak on behalf of Bloomberg. It shows how serious Professor Downing is about wanting us gain experience. I am not interested in working at Bloomberg, so I zoned out a little. However, it is always interesting to see the business structure of a company. Bloomberg is tapping into big data, an area I find very interesting. I wanted to ask Chris what benefits of big data has Bloomberg found, since this is one of the biggest issues of big data. However due to time and my next class being in CPE, I was unable to ask.
+
+I also met my partner for the Netflix project this week. I was able to meet him because Professor Downing allowed class time to find a partner. A good partner is someone who listens to your ideas and does not overrule you. Thankfully, my partner has been just that. I know I will be able to speak on this experience during my behavioral interviews.
+
+## Find-of-the-week
+
+iOS 10 has changed the game of iMessaging! It is not as user-friendly, but the new features have been great. My favorite feature is being able to simply "like" a text message, just as I would "like" a comment on Facebook. This is great because you are still able to react to what has been said without sending a meaningless text. 
