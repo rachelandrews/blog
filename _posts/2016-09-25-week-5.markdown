@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 5"
-date:   2016-09-35 11:13:22 -0500
+date:   2016-09-25 11:13:22 -0500
 categories: jekyll update
 ---
 ## What did you do this past week?
@@ -24,4 +24,4 @@ We had a speaker from JPL speak on Wednesday. At first, I wasn't too impressed b
 
 ## Find-of-the-week
 
-Google announced it's product of Google Allo. It is supposed to learn your habits and become your personal assistant. How does it learn your habits? By tracking everything you type, of course. Unfortunately, most people don't care and would rather have Google predict their response. Will this become a continual trend in our society- to choose convenience over security?
+Google announced its product of Google Allo. It is supposed to learn your habits and become your personal assistant. How does it learn your habits? By tracking everything you type, of course. Unfortunately, most people don't care and would rather have Google predict their response. Will this become a continual trend in our society- to choose convenience over security?
