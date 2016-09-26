@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Week 5"
+date:   2016-09-35 11:13:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+We did the final touches of our Netflix project. We didn't have to do too much, so this week was more relaxed than last. We actually got our prediction score under .95, so I was proud of our work.
+
+## What's in your way?
+
+Currently, the readings. Again. 
+
+## What will you do next week?
+
+The test is next week. I want to spend a significant amount studying this week so I can be very prepared for the test. I want to spend time in office hours this week before they get busy next week.
+
+## Experience
+
+I thought I would go one week without being called on during class, but that dream faded away half way through Friday's lecture.
+
+We had a speaker from JPL speak on Wednesday. At first, I wasn't too impressed by his presentation skills. But as class went on, he became one of the best company speakers I have heard. He showed an accurate description of how the overall work cycle in the industry is. The best thing was seeing a live demonstration of one of his projects. For most companies, we know they have some impact. However, it was clear how significant and monumental the work at JPL is. It was incredible to see how imapctful virtual reality has become. It's more than just a source of entertainment. It's a way to experience currently impossible scenarios, like being on Mars.  
+
+## Find-of-the-week
+
+Google announced it's product of Google Allo. It is supposed to learn your habits and become your personal assistant. How does it learn your habits? By tracking everything you type, of course. Unfortunately, most people don't care and would rather have Google predict their response. Will this become a continual trend in our society- to choose convenience over security?
