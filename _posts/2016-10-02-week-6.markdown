@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Week 6"
+date:   2016-10-02 11:13:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+Honestly, I didn't do too much. This week was relaxing and a good way to restore for the week ahead. I did do the readings. I read the in-class code from the previous lecture before the next lecture.
+
+## What's in your way?
+
+The test is this week. Professor Downing just put up what we should expect. I need to form a study group to ensure I have solidified the concepts . 
+
+## What will you do next week?
+
+I've started studying for the test. I'm going through the in-class code and writing down noteable behaviors that need to be known. Writing code like Professor Downing has done will be the most beneficial. 
+
+## Experience
+
+I finally went a week without being called on in class.
+
+This week we continued our deeper learning of Python. We spent more time than we usually do writing code. I guess we are doing this since the test seems to be writing Python code. I know sometimes I can be lazy and write code that is not 100% correct but displays the concept. I know for the test we need to be more specific and detailed, so while studying for the test I'll make sure to do that. 
+
+We spent a lot of time going over the differnces of an iterator and an iterable. It got confusing at some points, but with time it made more sense. Towards the end of the week, things began to solidify with specific code to show the differences. Just like many of the concepts in class, it is very detailed information that is important to know. 
+
+## Find-of-the-week
+
+BlackBerry has announced that it will not longer manufacture their own phones. BlackBerry will now focus on software, specifically with mobility management. This new field is already very competitive with competitors such as Microsoft and SAP, to name a few. BlackBerry will have to succeed or it will become a company of the past.
