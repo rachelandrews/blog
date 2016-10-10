@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 ## What did you do this past week?
 
-This past week I studied for the exam. I should have spent more time creating practice problems rather than memorizing the material on the exam. I also wish I spent more time learning the syntax of certain topics such as unpacking and packing. I wasn't sure during the test if I had put the asterisk in the right location in respect to the variable.
+This past week I studied for the exam. I should have spent more time creating practice problems rather than memorizing the material. I also wish I spent more time learning the syntax of certain topics such as unpacking and packing. I wasn't sure during the test if I had put the asterisk in the right location in respect to the variable.
 
 ## What's in your way?
 
@@ -23,4 +23,4 @@ The exam was interesting. I wish we had started on time rather than 30 minutes l
 I've noticed many people complaining about the tabbing issue when coding. However, it works fine if you are consistent with your spacing. The preformatting ability in Canvas helped a lot too.
 
 ## Tip-of-the-week
-In <a href="http://www.techrepublic.com/article/if-theres-a-tech-skills-shortage-why-are-so-many-computer-graduates-unemployed/" target = "_blank"> this</a> article, it describes the shortage of tech skills the industry as claimed yet the high unemployment rate of computer graduates. It is not a high number compared to the average graduate, but it is compared to other students in STEM degrees. The article begins to ask, who's responsibility is for the student to be prepared for the industry? Do colleges not prepare the students? Or should industries create better programs to integrate students into their jobs? Personally I feel it is the latter, since every company has its own needs that colleges cannot prepare for. However, colleges should provide the fundamentals so that every student can easily adapt to whatever environment they are in.
+In <a href="http://www.techrepublic.com/article/if-theres-a-tech-skills-shortage-why-are-so-many-computer-graduates-unemployed/" target = "_blank"> this</a> article, it describes the shortage of tech skills the industry needs yet the unemployment rate of computer graduates is still high. It is not a high number compared to the average graduate, but it is compared to other students in STEM degrees. The article begins to ask, who's responsibility is for the student to be prepared for the industry. Do colleges prepare the students? Or should industries create better programs to integrate students into their jobs? Personally I feel it is the latter, since every company has its own needs that colleges cannot prepare for. However, colleges should provide the fundamentals so that every student can easily adapt to whatever environment they are in.
