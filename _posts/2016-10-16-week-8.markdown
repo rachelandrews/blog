@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Week 8"
+date:   2016-10-16 22:43:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+This past week we worked on phase one on the project. It was pretty difficult to get started since we only knew who our group was on Tuesday night, and then could only meet on Wednesday or Thursday. Most of our group was willing to meet and were efficient communicators, which helped.
+
+## What's in your way?
+
+No one in our group has extensive web development experience. This can be difficult with working on a project none of us know how to do. We need to spend more time learning the tools and how they all work with each other. This also causes issues dividing the work since no one is comfortable with the tools to take responsibility. This is something that needs to be overcome for the success of our project. However some of our members are leaving early this week due to Grace Hopper and interviews. It will be difficult to not have them there, especially when the are essential to our group. We all need to put our part in the project and be efficient team members.
+
+
+## What will you do next week?
+
+We need to finish the first phase of the project. Since we did so little last week, we will be putting in extra time this week. This is difficult working with six different schedules, but we will make it work
+
+## Experience
+
+The concepts in class became a lot more abstract. We're learning at the same pace as we were before, so it's difficult to comprehend everything that we are learning. Professor Downing expects to keep up with him, so coming unprepared to class puts you even further behind. I need to come even more prepared to class than I did before. 
+
+
+## Tip-of-the-week
+
+The web tools page is our manna in this wilderness. I'm excited to learn these new tools to become an even more well rounded engineer. 
