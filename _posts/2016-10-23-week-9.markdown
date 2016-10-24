@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Week 9"
+date:   2016-10-23 22:43:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+This past week we worked on the first implemenation of our website. We got everything on the front end and back end set up. However we ran into issues in setting up the web server. I was pretty disappointed in myself and my group to not get this part done. I wish I had played a more active role in the success of our group. 
+
+## What's in your way?
+
+I believe my grade is in the way. I am very disappointed in myself with the test grade. I don't want to make conclusions on whether or not I need to drop the class. I would hate to be so close to the end of finishing my degree and have a few things trip me up.
+
+## What will you do next week?
+
+I'm going to start on the project early this week. I will be constrained on time because I have a test in another class, but I know this weekend we will be working on it. We need to have a solid database design so everything can be easily implemented 
+
+## Experience
+
+I feel the SQL ideas have gone over my head often. I have noticed I am more comfortable coding the solutions to the problems in class. I hope this confidence will continue closer to the last test. I will need to do well to make the grade I want in this class. I hope our group can continue to do better on the projects. I believe we learned from our mistakes and are learning to communicate better. We also are learning how to better divide the work so not all 6 people need to be present. Hopefully having everyone there for the entirety of the 10 days will work to our advantage. 
+
+## Tip-of-the-week
+
+repl.it is a great tool to help code. It works great when you want to run a simple piece of code to solve a particular problem, which is what we typically do in class.
