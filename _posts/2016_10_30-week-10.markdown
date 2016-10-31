@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Week 10"
+date:   2016-10-30 22:43:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+This past week I worked on the initial set up and redesign of the our database. We decided to make readjustments to create a better user experience.  However, it will make the database very complicated. I feel for the scope of the project it is unnecessary to do it. Because my team is very persistent on it, I will make the readjustments they have asked. 
+
+I also came to class everyday after Monday prepared for a quiz. But I will take the smiles of sweet baby Jesus over a quiz any day. 
+
+## What's in your way?
+
+I need to make sure I have full understanding of UML design. The database needs to be implemented correctly, but it is very easy to mess it up. 
+
+## What will you do next week?
+
+We will be finishing up project four in a timely manner. 
+
+## Experience
+
+Class this week was great, considering there wasn't much of it. It was nice having a company come in again. It's even better that all the companies that have come are from different industries. I'm hoping we get a chance to talk a little more about regular expressions, even if it is just an example. However, I'm not sure how all of these new concepts will be tested on. The class moves on quickly, and we don't spend too much time applying everything we learn. 
+
+## Tip-of-the-week
+
+The new MacBook looks incredible. I am impressed with the touch bar. There are a lot of new features that make the MacBook stand out. However, is it worth the price? As seen in the past, it doesn't matter what Apple charges. Their customers are too loyal and willing to pay anything for the Apple brand.
