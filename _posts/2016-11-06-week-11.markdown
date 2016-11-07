@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Week 11"
+date:   2016-11-06 21:43:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+This past week we wrapped up the second phase of our project. We unfortunately waited until the last minute to work on the project, again. Thus it was a very stressful Thursday. In the end, we were able to get it done. It wasn't the best product that we could produce but it was good enough. We did learn a few lessons from our past project. We were able to communicate much more efficiently and also discovered each others' niches. This made it much easier to assign responsibilities to one another.
+
+
+## What's in your way?
+
+Nothing really is in my way. I have a chiller than usual week, but I still want to remain productive as best as I can.
+
+## What will you do next week?
+
+We will be having a head start on phase three. WE WILL BE START EARLY. Hopefully saying it in all caps means it will actually happen this time. Third times the charm, right?
+
+## Experience
+
+It was nice to learn SQL again in class. Unfortunately, we didn't do the usual create-the-code-for-the-test-case drills. Because of this, I am unsure how this material may appear on a test. Maybe this material won't appear on our test and is taught for a greater domain knowledge. Based on the questions from the past quizzes, there seems to be a greater emphasis on knowing the basic foundation for SQL rather than the more complicated queries. However, I may be eating my own words during Monday's quiz.
+
+## Tip-of-the-week
+
+Actually pay attention in a data management class. The material is one of the most applicable material for industry and may reappear in future classes like this class.
