@@ -19,11 +19,12 @@ Wrap up all our projects for this class! The week a project due is always a litt
 
 ## Experience
 
-Not going to lie, class this week has been very confusing. I have not been able to understand any of the questions asked in class. I do later understand the answer, once it's given. I wish we knew how everything we learn relates to one another, because right now it seems a lot of random information. Yes, this information is all useful, but for classes at this level it can be difficult to learn the depth of some of the topics when there is such wide variety of topics as well. I think what makes it even more difficult, is that we are not implementing anything we have learned in class the last few weeks. If we were implementing what we are learning, I would probably not be as frustrated as I am.
+Not going to lie, class this week has been very confusing. I have not been able to understand any of the questions asked in class. I do later understand the answer once it's given. I wish we knew how everything we learn relates to one another, because right now it seems a lot of random information. Yes, this information is all useful, but for classes at this level it can be difficult to learn the depth of some of the topics when there is such wide variety of topics as well. I think what makes it even more difficult, is that we are not implementing anything we have learned in class the last few weeks. If we were implementing what we are learning, I would probably not be as frustrated as I am.
 
 ## Tip-of-the-week
 
 Two things from <a href="https://simpleprogrammer.com/2015/01/05/24-quick-tips-to-boost-your-career-as-a-software-engineer-this-year/" target = "_blank"> this</a> article that stood out to me:
+
 1. The first tip of being a self-learner is very true for this field. There are so many languages and tools that you have to use in this industry that you no one will teach you. You have to go out on your own to learn it.
 
 2. The 24th tip stood out to me because I don't spend too much time actively pursuing a specialization. I feel I have said what I wanted to specialize in, but don't go out of my way to further myself in it.
