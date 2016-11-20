@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Week 12"
+date:   2016-11-13 21:43:22 -0500
+categories: jekyll update
+---
+## What did you do this past week?
+
+This past week we finished up our final phase of our website. We didn't spend too much time together to work on it. However, this time we were all effecient on our own. We communicated well through Slack and were able to meet on an individual basis if needed. Even with our early start, it was still a little stressful on the day of the deadline. I was able to expand my skills by learning D3.js. I was proud of myself for doing something new and exceeding on it. 
+
+
+## What's in your way?
+
+We have our presentation left to due. It's just our luck that we end up being the first group to present. I'm not sure what kind of questions or feedback we will recieve. After that I will be able to solely focus on our final test. I need to do well considering how I did on the first test. 
+
+## What will you do next week?
+
+Next week we will present our website to the class. After that, I will forget the woes behind and ahead of me to appreciate my Thanksgiving break. 
+
+## Experience
+
+Again, class has been confusing. I have not found the time to sit down and learn the material when I should have. I felt the Lord's favor upon me on Wednesday when the Spiceworks representatives came. Many of the companies that come say the same thing, so it felt repetitive. However, I do think Spiceworks showed they had the best work culture compared to everyone else. I also appreciated the financial advice given. It is an important piece of information in an offer that many college students overlook.
+
+
+## Tip-of-the-week
+
+There is always something you can be doing for your group. Even when you're done, take care of the small things that can be easily overlooked. Do we have all the files? Did we name everything correctly? Are we passing everything that needs to be passed? If you feel that you're just sitting there, you're probably not doing enough.
