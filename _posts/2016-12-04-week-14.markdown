@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Week 14"
+date:   2016-12-04 14:43:22 -0500
+categories: jekyll update
+---
+
+## What did I learn?
+
+Wow, I don't think I can answer this question. We learned A LOT in this class. From a having a deeper understanding of Python, to Flask, to making a website, and even a little bit of Java. I think this class is the a fairly accurate depiction of the work in industry. Even the amount of self learning we do. Majority of the material of the information for the website is self taught. You are at an advantage if you already know the tools, but it isn't the end of the world if you don't know it. You will just have to work harder and take the time to learn. This can be difficult during school since you're already juggling the workload of other classes. 
+
+This was also the first group project where we did not always meet to work on the project. Everyone did their own part during their own time. We used the most of our time together by discussing where we are and we where we need to go as we move forward. If we had any individual difficulties, we would address them during the meeting. This is another depiction of the industry. The work of every member was interconnected to each other, so it was important to be in constant communication with each other. 
+
+##Experience
+
+Overall, I'm very glad I took this class. I feel more comfortable going into the industry with the experience I have gained. Unfortunately, I will not be using these tools since I will be working as an analytics consultant after graduating. Even though I will not be working as a software engineer, I know that this class taught me enough to fully communicate to a software engineer in any project that I am a part of.
+
+I think the biggest thing this class taught me was to challenge myself. When you begin working, you will be in an unknown environment. You will have to rise above the challenge and learn the unknowns in front of you. If you don't, your value will quickly diminish. With the ever changing industry we are in, it is important to be aware of the next big thing. We should be constantly improving our technical and personal skills to be relevant and an essential part of our respective companies.
+
